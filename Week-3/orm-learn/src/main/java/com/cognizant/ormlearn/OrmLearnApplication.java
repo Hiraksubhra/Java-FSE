@@ -37,7 +37,7 @@ public class OrmLearnApplication {
         LOGGER.info("End testGetAllCountries");
     }
 
-    // Find by Code
+    // Find by Country Code
     private static void getAllCountriesTest() {
         LOGGER.info("Start getAllCountriesTest (Find By Code)");
         try {
