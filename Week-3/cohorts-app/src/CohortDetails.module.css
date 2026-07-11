@@ -1,0 +1,17 @@
+.box {
+  width: 300px;
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+  vertical-align: top; /* Aligns cards evenly at the top */
+}
+
+dt {
+  font-weight: 500;
+}
+
+dd {
+  margin-bottom: 10px; /* Adds slight spacing between list items */
+}
